@@ -1,0 +1,8 @@
+aacontroltest.ptcnet.ptc.com:443
+aacontrol01t.ptcnet.ptc.com:443
+aacontrol02t.ptcnet.ptc.com:443
+aacontrolprod.ptcnet.ptc.com:443
+aacontrol01p.ptcnet.ptc.com:443
+aacontrol02p.ptcnet.ptc.com:443
+aazsvn-iqbot1t.ptcnet.ptc.com:3000
+aazsvn-iqbot2t.ptcnet.ptc.com:3000
